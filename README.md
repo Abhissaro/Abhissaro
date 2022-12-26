@@ -9,4 +9,4 @@ Abhissaro/Abhissaro is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhissaro)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abhissaro&theme=highcontrast&hide_border=true&border_radius=4.6&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
