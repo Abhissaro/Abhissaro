@@ -8,8 +8,7 @@
 Abhissaro/Abhissaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&weight=700&size=26&duration=5008&pause=1000&color=54F7CB&background=FF68CD00&multiline=true&width=435&lines=Abhinaya+Saravanan;AI+ML+Enthusiast;Interested+in+Datascience%2C+Machine+Learnine+and+Computer+Vision" alt="Typing SVG" /></a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&weight=200&size=10&duration=5002&pause=993&color=54F7CB&background=FF68CD00&multiline=true&width=435&lines=Abhinaya+Saravanan;AI+ML+Enthusiast;Interested+in+Datascience%2C+Machine+Learnine+and+Computer+Vision)](https://git.io/typing-svg)
 
 
 
