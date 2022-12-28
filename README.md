@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhinaya. I'm currently eager to learn explore more about Artificial Intelligence, Data Science, and deep learning. I have been interested in AI and have chosen to pursue a career in it after several years of teaching Robotics and IT. 
+- 👋 Hi, I’m Abhinaya. I'm eager to learn explore more about Artificial Intelligence, Data Science and deep learning. I'm interested in AI and have chosen to pursue a career in it after several years of teaching Robotics and IT. 
 - 🎯 Focused on expanding horizons in Machine Learning and Research.
 
 <!---
