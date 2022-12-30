@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 [![Abhinaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhissaro&show_icons=true&theme=dark&hide=prs,issues)](https://github.com/abhissaro/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abhissaro&theme=highcontrast&hide_border=true&border_radius=4.6&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhissaro&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhissaro&repo=github-readme-stats)](https://github.com/abhissaro/github-readme-stats)
