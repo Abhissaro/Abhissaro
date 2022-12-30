@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Abhinaya. I'm eager to learn explore more about Artificial Intelligence, Data Science and deep learning. I'm interested in AI and have chosen to pursue a career in it after several years of teaching Robotics and IT. 
 - 🎯 Focused on expanding horizons in Machine Learning and Research.
+- 📧 How to reach me abhiaiml22@gmail.com
 
 
 
@@ -13,4 +14,8 @@ You can click the Preview link to take a look at your changes.
 [![Abhinaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhissaro&show_icons=true&theme=dark&hide=prs,issues)](https://github.com/abhissaro/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abhissaro&theme=highcontrast&hide_border=true&border_radius=4.6&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
+<!---
+https://github.com/tandpfun/skill-icons#icons-list
+--->
+#### 𝙈𝙮 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
+[![My Skills](https://skillicons.dev/icons?i=py,css,ai,pytorch,tensorflow,vscode,github,html,aws,flask,arduino,bootstrap flutter&perline=3)](https://skillicons.dev)
