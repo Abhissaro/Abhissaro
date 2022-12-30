@@ -17,5 +17,4 @@ You can click the Preview link to take a look at your changes.
 <!---
 https://github.com/tandpfun/skill-icons#icons-list
 --->
-#### 𝙈𝙮 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
-[![My Skills](https://skillicons.dev/icons?i=py,css,ai,pytorch,tensorflow,vscode,github,html,aws,flask,arduino,bootstrap flutter&perline=3)](https://skillicons.dev)
+
