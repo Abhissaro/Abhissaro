@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 https://github.com/tandpfun/skill-icons#icons-list
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhissaro)](https://github.com/Abhissaro/Abhissaro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhissaro&theme=transparent)](https://github.com/Abhissaro/Abhissaro)
