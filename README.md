@@ -5,10 +5,22 @@
 - <img src="https://komarev.com/ghpvc/?username=Abhissaro&style=flat-square&color=blue" alt=""/>
 --->
 ---
-![Python](https://img.shields.io/badge/Python-3.9-blueviolet)
+![Python](https://img.shields.io/badge/Python-blueviolet)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-LSTM-lightgrey)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI-pink)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-lightgrey)
 ![Natural Language Processing](https://img.shields.io/badge/-NLP-yellow)
+![Numpy](https://img.shields.io/badge/Numpy-ff69b4)
+![Heroku](https://img.shields.io/badge/Hiroku-Orange)
+![CV](https://img.shields.io/badge/CV-yellowgreen)
+![Anaconda](https://img.shields.io/badge/Anaconda-important)
+![Streamlit](https://img.shields.io/badge/Streamlit-success)
+![Pandas](https://img.shields.io/badge/Pandas-yellow)
+![Statistics](https://img.shields.io/badge/Statistics-yellowgreen)
+![Probability](https://img.shields.io/badge/Probaility-critical)
+![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-red)
+![Calculus](https://img.shields.io/badge/calculus-blueviolet)
+
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&weight=100&size=50&duration=1500&pause=800&color=F7A338&background=FF68CD00&center=true&width=1500&height=75&lines=Abhinaya+Saravanan;AI+ML+Enthusiast;Interested+in+Datascience+%26+Machine+Learning+)](https://git.io/typing-svg)
 ---
