@@ -52,6 +52,14 @@
 Abhissaro/Abhissaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- Skilled in **Python**, **Java** and **SQL**
+- Exploratory Data Analysis using **Pandas**.
+- Interpret Predictictions using **Explainable AI**
+- Data Visualization **Matplotlib**, **Seaborn**, **Power BI**, **Tableau** and **Plotly**.
+- Predictive Analytics/Machine Learning (Supervised/Unsupervised) using **Scikit-Learn**.
+- Natural Language Processing using **NLTK**, **HuggingFace** libraries.
+- Deep Learning with **TensorFlow**, **Keras**.
+- RESTful web services using **FastAPI**, **Flask**.
 
 
 ---
