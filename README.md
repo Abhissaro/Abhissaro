@@ -21,6 +21,7 @@
 ![Probability](https://img.shields.io/badge/Probaility-critical)
 ![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-red)
 ![Calculus](https://img.shields.io/badge/calculus-blueviolet)
+![Power BI](https://img.shields.io/badge/PowerBI-important)
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&weight=100&size=50&duration=1500&pause=800&color=F7A338&background=FF68CD00&center=true&width=1500&height=75&lines=Abhinaya+Saravanan;AI+ML+Enthusiast;Interested+in+Datascience+%26+Machine+Learning+)](https://git.io/typing-svg)
