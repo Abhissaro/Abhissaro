@@ -8,6 +8,7 @@
 ![Python](https://img.shields.io/badge/Python-blueviolet)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)
 ![Explainable AI](https://img.shields.io/badge/Explainable%20AI-pink)
+![Keras](https://img.shields.io/badge/Keras-ff69b4)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red)
 ![Weights & Biases](https://img.shields.io/badge/Weights-&%20Biases-9cf)
 ![Natural Language Processing](https://img.shields.io/badge/-NLP-yellow)
