@@ -19,7 +19,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-success)
 ![Pandas](https://img.shields.io/badge/Pandas-yellow)
 ![Statistics](https://img.shields.io/badge/Statistics-yellowgreen)
-![Probability](https://img.shields.io/badge/Probaility-critical)
+![Probability](https://img.shields.io/badge/Probability-critical)
 ![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-red)
 ![Calculus](https://img.shields.io/badge/calculus-blueviolet)
 ![Power BI](https://img.shields.io/badge/PowerBI-important)
